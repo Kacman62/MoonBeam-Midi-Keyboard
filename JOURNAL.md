@@ -12,7 +12,7 @@
 
 I spent most of this time in research. I liked the guide put out by hack club, but wanted a fully digital synthesizer, not just the controller. After looking at different chips and MCUs, I found that the mozzi library with a pi pico and an analog multiplexer and DAC would probably get me the best results. Before going into major PCB design, I wanted to make a breadboard cut down version just to prove it. I did get audio out of the speaker, and the next step is to get inputs and outputs from the pico.  
 
-## 10/26/2025 - Finished Breadboard Prototype  
+## 10/26/2025 1 PM - Finished Breadboard Prototype  
 
 ![IMG_2554](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--2f4a3bb612ee79a16518bc08917ae542b4b4058e/IMG_2554.jpg)
 
@@ -21,4 +21,14 @@ I spent most of this time upgrading the prototype. I added more buttons to 12, a
 I also started making code (with a lot of help from AI) it shows promise but I am having trouble getting the notes to sustain, so I might need to write the code myself.
 
 Before that though, im going to design the PCB next and finalize the features. Going good so far though.  
+
+## 10/26/2025 6 PM - Completed Schematic  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--453e63ba505ff04dd692a26fb681e5a30af36e81/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg0MywicHVyIjoiYmxvYl9pZCJ9fQ==--27bb7f8d29f7bde855056bc16e6873e354d97a93/image.png)
+
+Spent a lot of this time researching how to get audio out. I took a headphone jack out of a broken usb adapter and wired it up in the schematic. I decided to use the pcm5100, and two TI chips, the lm4810 amd the 4861 to amplify the speaker and the headphones. Also did some other cleaning up, made a new footprint for the slide pots, added debug LEDS.
+
+Next Im going to set out the PCB
+  
 
