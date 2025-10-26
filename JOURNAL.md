@@ -12,3 +12,13 @@
 
 I spent most of this time in research. I liked the guide put out by hack club, but wanted a fully digital synthesizer, not just the controller. After looking at different chips and MCUs, I found that the mozzi library with a pi pico and an analog multiplexer and DAC would probably get me the best results. Before going into major PCB design, I wanted to make a breadboard cut down version just to prove it. I did get audio out of the speaker, and the next step is to get inputs and outputs from the pico.  
 
+## 10/26/2025 - Finished Breadboard Prototype  
+
+![IMG_2554](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--2f4a3bb612ee79a16518bc08917ae542b4b4058e/IMG_2554.jpg)
+
+I spent most of this time upgrading the prototype. I added more buttons to 12, added another slide potentiometer, an I2C screen. 
+
+I also started making code (with a lot of help from AI) it shows promise but I am having trouble getting the notes to sustain, so I might need to write the code myself.
+
+Before that though, im going to design the PCB next and finalize the features. Going good so far though.  
+
