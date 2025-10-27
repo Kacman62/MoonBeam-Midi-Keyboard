@@ -32,3 +32,14 @@ Spent a lot of this time researching how to get audio out. I took a headphone ja
 Next Im going to set out the PCB
   
 
+## 10/27/2025 - Laid out and Routed PCB  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--024feb720d0bbce31baf8d875ecf9b75da21e22c/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--5b15850d746f36f5dc377ba812cb3f16a4e79e7c/image.png)
+
+I laid out the PCB today. It was pretty challenging to get it all to fit together logically and in a small footprint. It ended up being about 350mm x 90mm. I'm pretty happy with how it looks and next I will work on making a cool silkscreen.
+
+I also routed the PCB today, getting the multiplexed buttons was a little challenging, but I got it all done with a pretty small amount of vias. 
+  
+
