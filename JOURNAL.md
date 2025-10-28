@@ -32,7 +32,7 @@ Spent a lot of this time researching how to get audio out. I took a headphone ja
 Next Im going to set out the PCB
   
 
-## 10/27/2025 - Laid out and Routed PCB  
+## 10/27/2025 6 PM - Laid out and Routed PCB  
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--024feb720d0bbce31baf8d875ecf9b75da21e22c/image.png)
 
@@ -41,5 +41,14 @@ Next Im going to set out the PCB
 I laid out the PCB today. It was pretty challenging to get it all to fit together logically and in a small footprint. It ended up being about 350mm x 90mm. I'm pretty happy with how it looks and next I will work on making a cool silkscreen.
 
 I also routed the PCB today, getting the multiplexed buttons was a little challenging, but I got it all done with a pretty small amount of vias. 
+  
+
+## 10/27/2025 9 PM - Added Silkscreen  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjExMiwicHVyIjoiYmxvYl9pZCJ9fQ==--8cb1b8a385f301eb3a349665d26a3a12e02c7544/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjExMywicHVyIjoiYmxvYl9pZCJ9fQ==--4cc39f343b9c03f1838e9bcff40556d002645bd2/image.png)
+
+Went through all the components and added silkscreen of their values to make assembly easy. also added my and hack clubs logos. and found a moon pattern and added that to the back of the PCB. Also went to Logo.com and got a logo for the project made.
+
   
 
