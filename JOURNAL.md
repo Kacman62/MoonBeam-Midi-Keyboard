@@ -52,3 +52,13 @@ Went through all the components and added silkscreen of their values to make ass
 
   
 
+## 10/28/2025 - Cleaned Up Board and Started Code  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--bc9b5ed84ed6b03db50fb06ee10c11db19c08423/image.png)
+
+Mainly just cleaned up a bunch of loose ends this session. I cleaned up some routing things, replaced an LED with a GPIO test pad, adjusted the back silkscreen. I made a test print to see if the switch placement was good and it felt a little far away from front to back so I moved the back row closer to the front.
+
+I also started (vibe) coding using the Mozzi audio library. the audio portion looks good, but it is untested, next im going to try and add multi core and put the OLED and the digital input logic there.
+
+Mainly just need to finish code and make a case before it is ready to be shipped.  
+
