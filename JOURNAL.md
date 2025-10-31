@@ -62,3 +62,14 @@ I also started (vibe) coding using the Mozzi audio library. the audio portion lo
 
 Mainly just need to finish code and make a case before it is ready to be shipped.  
 
+## 10/30/2025 - Started Case Design, Cleaned up Prototype Code  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--47ef247672697132c34dcac78d454b5aaa50cad3/image.png)
+
+Worked on the first version of the case. I like it, but it seems big so its going to be a real challenge to print and will need to be multiple pieces, so I will look into alternatives and optimizations.
+
+Also cleaned up code for the prototype and started migrating it to the new design which uses a slightly different design than the prototype. 
+
+I think im going to try multi core on the Pi Pico, but that will be my first time so I will see what happens.
+  
+
