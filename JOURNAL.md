@@ -73,3 +73,15 @@ Also cleaned up code for the prototype and started migrating it to the new desig
 I think im going to try multi core on the Pi Pico, but that will be my first time so I will see what happens.
   
 
+## 11/1/2025 - Finished Case Design  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--8053b382780daa90b6df69c3c550a57ae81bc00b/image.png)
+
+Finished the first revision of the case design. Had to go back and forth changing dimensions on the board and found that I put the wrong footprint on 1 screw hole. I think it looks pretty good but the lid doesn't seem super good so I might go back later. Looking like 200-250 grams for the entire thing which im pretty happy with.
+
+Now its code time
+
+
+
+  
+
