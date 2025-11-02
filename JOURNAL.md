@@ -85,3 +85,13 @@ Now its code time
 
   
 
+## 11/2/2025 - More Coding  
+
+![IMG_2571](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzcyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--b7244414e88111087aba7678c8cd29905d32ccc4/IMG_2571.jpg)
+
+Started byh fixing some minor things in the CAD (forgot holes for the ports)
+Then started adding in the OLED into the code. I got multicore on the pi pico, but for some reason the u8g2 graphics library didnt seem to work. (it could be multi core, or weird I2C pins, or a cheap knockoff OLED i dont really know). The adafruit ssd1306 and gfx libraries did work though. I also made a pixel art logo for the project.
+
+Next steps are too modify parameters for the audio from the OLED.
+  
+
