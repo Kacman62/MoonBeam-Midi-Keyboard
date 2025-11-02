@@ -85,7 +85,7 @@ Now its code time
 
   
 
-## 11/2/2025 - More Coding  
+## 11/2/2025 7 AM - More Coding  
 
 ![IMG_2571](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzcyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--b7244414e88111087aba7678c8cd29905d32ccc4/IMG_2571.jpg)
 
@@ -94,4 +94,12 @@ Then started adding in the OLED into the code. I got multicore on the pi pico, b
 
 Next steps are too modify parameters for the audio from the OLED.
   
+
+## 11/2/2025 2 PM - Coded Main Menu  
+
+![IMG_2573](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzg4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--4854526d4d2e84624f4ade0b0a3055f0b9a218a5/IMG_2573.jpg)
+
+Worked a lot on art and cleaning up code and some really weird bugs. I found out that the way i did multi core made core 0 freeze when core 1 started so i fixed that. I did more pixel art, creating graphics for what wave form is selected. Also added functions to change waveform and ADSR for later. biggest part though was creating the main menu screen where you can see the value of the sliders and in the future, what note is being played on each channel.
+
+going really well so far i just really hope it works  
 
