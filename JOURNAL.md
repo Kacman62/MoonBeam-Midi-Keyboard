@@ -85,7 +85,7 @@ Now its code time
 
   
 
-## 11/2/2025 - More Coding  
+## 11/2/2025 7 AM - More Coding  
 
 ![IMG_2571](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzcyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--b7244414e88111087aba7678c8cd29905d32ccc4/IMG_2571.jpg)
 
@@ -94,4 +94,10 @@ Then started adding in the OLED into the code. I got multicore on the pi pico, b
 
 Next steps are too modify parameters for the audio from the OLED.
   
+
+## 11/2/2025 2 PM - First Prototype  
+
+![IMG_2552](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTUyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--edd1b93a70740099223deb56882091ca5195b20a/IMG_2552.jpg)
+
+I spent most of this time in research. I liked the guide put out by hack club, but wanted a fully digital synthesizer, not just the controller. After looking at different chips and MCUs, I found that the mozzi library with a pi pico and an analog multiplexer and DAC would probably get me the best results. Before going into major PCB design, I wanted to make a breadboard cut down version just to prove it. I did get audio out of the speaker, and the next step is to get inputs and outputs from the pico.  
 
