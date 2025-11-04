@@ -111,3 +111,16 @@ I added a rotary encoder and a menu selection screen as well as drawing icons fo
 
 Ive got the wave form selector, the wave viewer, and the envelope editor left and then im done!  
 
+## 11/4/2025 - Added ADSR Editing and Waveform Switching  
+
+![IMG_2582](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--7346d8c9ca811b4af8357630ddfd39721a7ac5fc/IMG_2582.jpg)
+
+I added two more menus today with "art" for both. You can now switch wave forms to either sin, triangle, saw, or square. The icon in the banner also changes accordingly. 
+
+I also added a way to change the ADSR curve of the waveform. you use one rotary encoder to change time and the other to change the level. 
+
+Going to add 1 last app to view the current outputted wave, like an Oscope and then im going to be done with software for now.
+
+
+  
+
