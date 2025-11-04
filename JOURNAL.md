@@ -103,3 +103,11 @@ Worked a lot on art and cleaning up code and some really weird bugs. I found out
 
 going really well so far i just really hope it works  
 
+## 11/3/2025 - Added Menu Selection, Fixed Nasty Bug  
+
+![IMG_2577](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI0MywicHVyIjoiYmxvYl9pZCJ9fQ==--412b5b2cef6a45abe1a6c13d8fa7c5467015a9c9/IMG_2577.jpg)
+
+I added a rotary encoder and a menu selection screen as well as drawing icons for that. (last journal made this a little confusing this is the "main menu" that was like the main control page that shows what the synth is doing generally). I fixed a really weird bug with the encoders where the screen was drawing too many times and the delay in I2C writes was causing the encoders to not register rotations. (this issue was present across 2 different encoder libraries).
+
+Ive got the wave form selector, the wave viewer, and the envelope editor left and then im done!  
+
