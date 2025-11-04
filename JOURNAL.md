@@ -111,7 +111,7 @@ I added a rotary encoder and a menu selection screen as well as drawing icons fo
 
 Ive got the wave form selector, the wave viewer, and the envelope editor left and then im done!  
 
-## 11/4/2025 - Added ADSR Editing and Waveform Switching  
+## 11/4/2025 10 AM - Added ADSR Editing and Waveform Switching  
 
 ![IMG_2582](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--7346d8c9ca811b4af8357630ddfd39721a7ac5fc/IMG_2582.jpg)
 
@@ -122,5 +122,14 @@ I also added a way to change the ADSR curve of the waveform. you use one rotary 
 Going to add 1 last app to view the current outputted wave, like an Oscope and then im going to be done with software for now.
 
 
+  
+
+## 11/4/2025 4 PM - Finished Code with Waveform Viewer  
+
+![IMG_2586](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM5NiwicHVyIjoiYmxvYl9pZCJ9fQ==--0233f203b3d61c7cae635df1dc6abe62185da5b3/IMG_2586.jpg)
+
+I think im finished with the code. I added a waveform viewer for the audio out. It works with different wave types and (should) change with the pitch and vibrato sliders. 
+
+This code has been a beast but im going to upload it to the github have some people review it and then ship on the weekend.
   
 
