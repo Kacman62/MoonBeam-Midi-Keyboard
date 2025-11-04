@@ -16,7 +16,7 @@ A Midi Keyboard following the hack club guide, with slight upgrades and a focus 
 # Initial Idea
 After reading the guide from Hack club and others online to make a MIDI keyboard, it seemed like a great idea. After more reaserch though I wanted a standalone synthesizer that does not need a computer and couldn't find many examples online. This seemed like it would be easy enough so I decided to do it myself
 
-* Schematic and Board
+#Schematic and Board
 The whole project is built around a raspberry pi pico 1 (a pico 2 should work too but untested). A 5x5 multiplexed array of key cap switches serve as the main input. 
 On the Audio side, a PCM5100 I2S DAC is channeled into a LM4810 and LM4861 audio amplifiers, that go to a speaker and headphone jack.
 
@@ -31,10 +31,10 @@ I initally dreaded the software but it ended up being very fun after the initial
 
 # UI
 You navigate the UI with both rotary encoders. Double clicking either brings you into the main menu. Rotate either to select an app.
--Settings (Wrench): View current notes on each audio voice and the values of the slide potentiometers
--ADSR Editor (Envelope): Use on dial to change the level of the ADSR and the other to change the time. Changing the level of the decay, sustain and release will change the other two with it. this is intended to avoid weird audio clipping
--Wave Viewer (Wave): View the current outputted wave form. Automatically adjusts the zoom if multiple voices are playing
--Wave Changer (Square Wave): Choose from either a sin, triangle, saw, or square wave
+* Settings (Wrench): View current notes on each audio voice and the values of the slide potentiometers
+* ADSR Editor (Envelope): Use on dial to change the level of the ADSR and the other to change the time. Changing the level of the decay, sustain and release will change the other two with it. this is intended to avoid weird audio clipping
+* Wave Viewer (Wave): View the current outputted wave form. Automatically adjusts the zoom if multiple voices are playing
+* Wave Changer (Square Wave): Choose from either a sin, triangle, saw, or square wave
 
 # Art
 All pixel art was created by me using Aseprite. The PK Industries and the Moonbeam synth logo are unregistered trademarks, not real companies and products, and have no legal binding on anything. I am not a lawyer, and this joke has gone on too long.
