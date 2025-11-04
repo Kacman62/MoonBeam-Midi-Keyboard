@@ -1,2 +1,50 @@
 # MoonBeam-Midi-Keyboard
 A Midi Keyboard following the hack club guide, with slight upgrades and a focus on case and silkscreen design.
+
+#Features
+-25 multiplexed piano style keys
+-Support for up to 5 notes at the same time
+-3 Analog sliders for volume pitch and vibrato
+-OLED display and 2 rotary encoders with a custom code base
+-Sound synthesis using the Mozzi audio library
+-4 different wave forms
+-Custom ADSR editing
+-Oscilloscope style waveform viewer
+-Toggleable speakler and headphone out
+-And more planed features for the future!
+
+# Initial Idea
+After reading the guide from Hack club and others online to make a MIDI keyboard, it seemed like a great idea. After more reaserch though I wanted a standalone synthesizer that does not need a computer and couldn't find many examples online. This seemed like it would be easy enough so I decided to do it myself
+
+* Schematic and Board
+The whole project is built around a raspberry pi pico 1 (a pico 2 should work too but untested). A 5x5 multiplexed array of key cap switches serve as the main input. 
+On the Audio side, a PCM5100 I2S DAC is channeled into a LM4810 and LM4861 audio amplifiers, that go to a speaker and headphone jack.
+
+The PCB was a lot more challenging, just do to the sheer size of it. It ends up being about 350mm x 90mm. But the routing wasnt too hard and I like the look of how it turned out
+
+# Case Design
+There is an included case. Currently I have not received the board so I can not confirm if it works perfectly, but I designed it around the 3D cad of the board so it should work fine. 
+Only 1 of each file needs to be printed and it is assembled using M4 hardware
+
+# Software
+I initally dreaded the software but it ended up being very fun after the initial hurdles. The code is split into 2 cores, 1 for audio and 1 for the digital UI. It should work with the final assembly, all the digital has been tested, but the audio is using I2S which I can't test currently. I did use it a little bit with PWM audio and that worked fine. The waveform viewer also does show an audio signal so Im pretty confident that it will work
+
+# UI
+You navigate the UI with both rotary encoders. Double clicking either brings you into the main menu. Rotate either to select an app.
+-Settings (Wrench): View current notes on each audio voice and the values of the slide potentiometers
+-ADSR Editor (Envelope): Use on dial to change the level of the ADSR and the other to change the time. Changing the level of the decay, sustain and release will change the other two with it. this is intended to avoid weird audio clipping
+-Wave Viewer (Wave): View the current outputted wave form. Automatically adjusts the zoom if multiple voices are playing
+-Wave Changer (Square Wave): Choose from either a sin, triangle, saw, or square wave
+
+# Art
+All pixel art was created by me using Aseprite. The PK Industries and the Moonbeam synth logo are unregistered trademarks, not real companies and products, and have no legal binding on anything. I am not a lawyer, and this joke has gone on too long.
+
+# Disclaimers
+If you want to know more abvout the design and build process check out the journal
+This project is sponsered by and made in collaboration with Hack Club, go check them out
+Consider this project untested. I have pout my full effort into this project and full believe that it will work, but I have not received boards yet and thus do not know if this will work first try
+
+# Known issues
+In settings, the note played is incorrect (going to wait for boards to arrive so I can assign keys different notes)
+In Wave changer, the picture of the sawtooth wave is reversed from what is seen in the wave viewer
+In Wave Viewer, the wave slides around randomly. (The wave is still representative of what the audio out looks like, its just hard to focus on it)
