@@ -1,27 +1,27 @@
 # MoonBeam-Midi-Keyboard
 A Midi Keyboard following the hack club guide, with slight upgrades and a focus on case and silkscreen design.
 
-#Features
+# Features
 
--25 multiplexed piano style keys
+- 25 multiplexed piano style keys
 
--Support for up to 5 notes at the same time
+- Support for up to 5 notes at the same time
 
--3 Analog sliders for volume pitch and vibrato
+- 3 Analog sliders for volume pitch and vibrato
 
--OLED display and 2 rotary encoders with a custom code base
+- OLED display and 2 rotary encoders with a custom code base
 
--Sound synthesis using the Mozzi audio library
+- Sound synthesis using the Mozzi audio library
 
--4 different wave forms
+- 4 different wave forms
 
--Custom ADSR editing
+- Custom ADSR editing
 
--Oscilloscope style waveform viewer
+- Oscilloscope style waveform viewer
 
--Toggleable speakler and headphone out
+- Toggleable speakler and headphone out
 
--And more planed features for the future!
+- And more planed features for the future!
 
 # Initial Idea
 After reading the guide from Hack club and others online to make a MIDI keyboard, it seemed like a great idea. After more reaserch though I wanted a standalone synthesizer that does not need a computer and couldn't find many examples online. This seemed like it would be easy enough so I decided to do it myself
