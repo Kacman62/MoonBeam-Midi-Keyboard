@@ -23,6 +23,8 @@ After reading the guide from Hack club and others online to make a MIDI keyboard
 The whole project is built around a raspberry pi pico 1 (a pico 2 should work too but untested). A 5x5 multiplexed array of key cap switches serve as the main input. 
 On the Audio side, a PCM5100 I2S DAC is channeled into a LM4810 and LM4861 audio amplifiers, that go to a speaker and headphone jack.
 
+![Image showing routing of PCB](https://github.com/Kacman62/MoonBeam-Midi-Keyboard/blob/main/images/PixelArt.png)
+
 The PCB was a lot more challenging, just due to the sheer size of it. It ends up being about 350mm x 90mm. But the routing wasn't too hard and I like the look of how it turned out
 
 # Case Design
