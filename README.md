@@ -45,10 +45,10 @@ You navigate the UI with both rotary encoders. Double clicking either brings you
 
 ![Image showing the settings UI](https://github.com/Kacman62/Moonbeam-Synthesizer/blob/main/images/OLEDUI.png)
 
-![Image showing the pixel art for the project](https://github.com/Kacman62/MoonBeam-Midi-Keyboard/blob/main/images/PixelArt.png)
-
 # Art
 All pixel art was created by me using Aseprite. The PK Industries and the Moonbeam synth logo are unregistered trademarks, not real companies and products, and have no legal binding on anything. I am not a lawyer, and this joke has gone on too long.
+
+![Image showing the pixel art for the project](https://github.com/Kacman62/MoonBeam-Midi-Keyboard/blob/main/images/PixelArt.png)
 
 # Disclaimers
 If you want to know more about the design and build process check out the journal
