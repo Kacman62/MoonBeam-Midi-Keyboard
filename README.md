@@ -2,7 +2,6 @@
 A Midi Keyboard following the hack club guide, with slight upgrades and a focus on case and silkscreen design.
 
 ![Promo Image for the Moonbeam Synth](https://github.com/Kacman62/MoonBeam-Midi-Keyboard/blob/main/images/Moonbeam%20Synth%20Promo.png?raw=true)
-<img width="1595" height="452" alt="image" src="https://github.com/user-attachments/assets/0e2b62f2-29db-4a47-95b4-b7367d7a5811" />
 
 # Features
 
