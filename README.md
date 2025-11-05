@@ -55,6 +55,14 @@ This project is sponsored by and made in collaboration with Hack Club, go check 
 
 Consider this project untested. I have put my full effort into this project and fully believe that it will work, but I have not received boards yet and thus do not know if this will work first try
 
+# Hack Club Stuff
+
+Estimate Total Hours: 45
+
+My Final Total: 87.23
+
+Your Final Total: 116.93
+
 # Known issues
 In settings, the note played is incorrect (going to wait for boards to arrive so I can assign keys different notes)
 
