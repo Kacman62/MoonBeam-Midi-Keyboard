@@ -133,3 +133,11 @@ I think im finished with the code. I added a waveform viewer for the audio out. 
 This code has been a beast but im going to upload it to the github have some people review it and then ship on the weekend.
   
 
+## 11/4/2025 7 PM - Shipped  
+
+![Moonbeam Synth Promo](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQ1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--7f85052e04e21ef989d4db39d2ef9dd7fa9ad89a/Moonbeam%20Synth%20Promo.png)
+
+Made a promo image for the project. Created a BOM. updated the Github a lot. uploaded code, cad, PCB files. Also shipped the project and waiting for review. 
+So happy with how this turned out and cant wait to get it and continue making improvements on it.
+  
+
