@@ -1,5 +1,5 @@
 # MoonBeam Synthesizer
-A standalone DAWLESS synthesizer based on a Raspberry Pi Pico. Includes a custom circuit board and codebased with the Mozzi Audio Library
+A standalone DAWLESS synthesizer based on a Raspberry Pi Pico. Includes a custom circuit board and codebase with the Mozzi Audio Library
 
 ![Promo Image for the Moonbeam Synth](https://github.com/Kacman62/MoonBeam-Midi-Keyboard/blob/main/images/Moonbeam%20Synth%20Promo.png?raw=true)
 
