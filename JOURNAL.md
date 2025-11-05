@@ -141,3 +141,10 @@ Made a promo image for the project. Created a BOM. updated the Github a lot. upl
 So happy with how this turned out and cant wait to get it and continue making improvements on it.
   
 
+## 11/5/2025 - Shaved $30 Off BOM  
+
+I got over my fear of Aliexpress and got the total cost for me and you down by $30. Amazon shipping was pretty expensice. Now im ready to ship and start ordering pieces. 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODYzNywicHVyIjoiYmxvYl9pZCJ9fQ==--b2a761f9b55a96ad839919953f47eaf7a79ccf8c/image.png)
+  
+
