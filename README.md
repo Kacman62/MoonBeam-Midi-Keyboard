@@ -31,6 +31,8 @@ The PCB was a lot more challenging, just due to the sheer size of it. It ends up
 There is an included case. Currently I have not received the board so I can not confirm if it works perfectly, but I designed it around the 3D cad of the board so it should work fine. 
 Only 1 of each file needs to be printed and it is assembled using M4 hardware
 
+![Image showing CAD of the case](https://github.com/Kacman62/MoonBeam-Midi-Keyboard/blob/main/images/CadImage.png)
+
 # Software
 I initially dreaded the software but it ended up being very fun after the initial hurdles. The code is split into 2 cores, 1 for audio and 1 for the digital UI. It should work with the final assembly, all the digital has been tested, but the audio is using I2S which I can't test currently. I did use it a little bit with PWM audio and that worked fine. The waveform viewer also does show an audio signal so Im pretty confident that it will work
 
