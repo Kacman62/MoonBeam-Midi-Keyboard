@@ -43,6 +43,8 @@ You navigate the UI with both rotary encoders. Double clicking either brings you
 * Wave Viewer (Wave): View the current outputted wave form. Automatically adjusts the zoom if multiple voices are playing
 * Wave Changer (Square Wave): Choose from either a sin, triangle, saw, or square wave
 
+![Image showing the settings UI](https://github.com/Kacman62/Moonbeam-Synthesizer/blob/main/images/OLEDUI.png)
+
 ![Image showing the pixel art for the project](https://github.com/Kacman62/MoonBeam-Midi-Keyboard/blob/main/images/PixelArt.png)
 
 # Art
