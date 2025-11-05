@@ -43,6 +43,8 @@ You navigate the UI with both rotary encoders. Double clicking either brings you
 * Wave Viewer (Wave): View the current outputted wave form. Automatically adjusts the zoom if multiple voices are playing
 * Wave Changer (Square Wave): Choose from either a sin, triangle, saw, or square wave
 
+![Image showing the pixel art for the project](https://github.com/Kacman62/MoonBeam-Midi-Keyboard/blob/main/images/PixelArt.png)
+
 # Art
 All pixel art was created by me using Aseprite. The PK Industries and the Moonbeam synth logo are unregistered trademarks, not real companies and products, and have no legal binding on anything. I am not a lawyer, and this joke has gone on too long.
 
