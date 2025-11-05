@@ -63,6 +63,8 @@ My Final Total: 87.23
 
 Your Final Total: 116.93
 
+https://blueprint.hackclub.com/projects/928 
+
 # Known issues
 In settings, the note played is incorrect (going to wait for boards to arrive so I can assign keys different notes)
 
