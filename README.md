@@ -59,7 +59,7 @@ Consider this project untested. I have put my full effort into this project and 
 
 Estimate Total Hours: 45
 
-My Final Total: 87.23
+My Final Total: 92.79
 
 Your Final Total: 116.93
 
