@@ -57,11 +57,11 @@ Consider this project untested. I have put my full effort into this project and 
 
 # Hack Club Stuff
 
-Estimate Total Hours: 45
+Estimate Total Hours: 48
 
-My Final Total: 92.79
+My Final Total: 60.31
 
-Your Final Total: 116.93
+Your Final Total: 96.73
 
 https://blueprint.hackclub.com/projects/928 
 
