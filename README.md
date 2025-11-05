@@ -19,7 +19,7 @@ A Midi Keyboard following the hack club guide, with slight upgrades and a focus 
 # Initial Idea
 After reading the guide from Hack club and others online to make a MIDI keyboard, it seemed like a great idea. After more reaserch though I wanted a standalone synthesizer that does not need a computer and couldn't find many examples online. This seemed like it would be easy enough so I decided to do it myself
 
-#Schematic and Board
+# Schematic and Board
 The whole project is built around a raspberry pi pico 1 (a pico 2 should work too but untested). A 5x5 multiplexed array of key cap switches serve as the main input. 
 On the Audio side, a PCM5100 I2S DAC is channeled into a LM4810 and LM4861 audio amplifiers, that go to a speaker and headphone jack.
 
@@ -44,10 +44,14 @@ All pixel art was created by me using Aseprite. The PK Industries and the Moonbe
 
 # Disclaimers
 If you want to know more abvout the design and build process check out the journal
+
 This project is sponsered by and made in collaboration with Hack Club, go check them out
+
 Consider this project untested. I have pout my full effort into this project and full believe that it will work, but I have not received boards yet and thus do not know if this will work first try
 
 # Known issues
 In settings, the note played is incorrect (going to wait for boards to arrive so I can assign keys different notes)
+
 In Wave changer, the picture of the sawtooth wave is reversed from what is seen in the wave viewer
+
 In Wave Viewer, the wave slides around randomly. (The wave is still representative of what the audio out looks like, its just hard to focus on it)
