@@ -67,6 +67,10 @@ Your Final Total: 96.73
 
 https://blueprint.hackclub.com/projects/928 
 
+# Update 11/11
+
+Huge thanks to Hack Club and the Blueprint program for assisting in this project. I have now received funding for the project and will be ordering parts. Expect future updates at the start of December
+
 # Known issues
 In settings, the note played is incorrect (going to wait for boards to arrive so I can assign keys different notes)
 
